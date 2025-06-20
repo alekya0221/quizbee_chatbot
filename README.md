@@ -85,7 +85,7 @@ This project is licensed under the MIT License — feel free to remix and expand
 Video Link : https://drive.google.com/file/d/1BZR-JByNsVYF_nfZVWq28eUQfV2OdVLA/view?usp=drive_link
 
 ## Demo PDF
-The PDF used in the demo video is available in the repository:
+The PDF used in the demo video is available in this repository: https://github.com/alekya0221/quizbee_chatbot/blob/main/QuizBee.pdf
 
 It includes:
 
