@@ -19,10 +19,15 @@ A lightweight, instruction-following chatbot powered by [TinyLlama-1.1B-Chat-v1.
 ##  Folder Structure
 
 ChatBot/ 
+
 ├── chat_memory.py # Sliding conversation memory buffer 
+
 ├── model_loader.py # Loads and returns the chatbot pipeline 
+
 ├── interface.py # Terminal-based chatbot loop 
+
 ├── requirements.txt # Python dependencies 
+
 ├── README.md # This file 
 
 
@@ -78,4 +83,17 @@ Runs on Windows, Linux, and macOS — no GPU required.
 This project is licensed under the MIT License — feel free to remix and expand.
 
 Video Link : https://drive.google.com/file/d/1BZR-JByNsVYF_nfZVWq28eUQfV2OdVLA/view?usp=drive_link
+
+## Demo PDF
+The PDF used in the demo video is available in the repository:
+
+It includes:
+
+Project architecture
+
+Key features
+
+Sample interaction
+
+Setup steps
 
